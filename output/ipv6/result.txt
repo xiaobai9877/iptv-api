@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-07 18:35:43,https://cdn3.163189.xyz/163189/cctv13$订阅源
+2026-01-09 18:38:28,https://cdn3.163189.xyz/163189/cctv13$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
@@ -14,6 +14,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8$订阅源
 辽宁卫视,https://www.goodiptv.club/douyu/9403738$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
